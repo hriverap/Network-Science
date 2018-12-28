@@ -5,5 +5,5 @@ El core de la ciencia de la complejidad son los modelos discretos, que incluyen 
 @Tarea_01: 
 Corresponde a la primera tarea del ramo NS para el grado de Magister
 
-@Trabajo final:
+@Proyecto:
 Contrucción de red de las empresas en chile con la informacion de empresa en un día.
